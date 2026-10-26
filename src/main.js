@@ -13,3 +13,4 @@ console.log(dayjs().format("DD/MM - HH:mm"))
 
 // JS
 import "./modules/form/submit.js"
+import "./modules/page-load.js"
